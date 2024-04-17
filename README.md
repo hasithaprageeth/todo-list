@@ -1,3 +1,3 @@
 # ToDo List App
 
-[Live Demo](https://github.com/hasithaprageeth/todo-list/)
+[Live Demo](https://hp-todolist.netlify.app/)
